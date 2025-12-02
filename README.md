@@ -38,50 +38,75 @@
   </tr>
 </table>
 <br>
-<h2 align="center">Tech Stack</h2>
-<table align="center">
-  <tr>
-    <td align="center">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="70" alt="Java"/>
-      <div>Core Java</div>
-    </td>
-    <td align="center">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="70" alt="MongoDB"/>
-      <div>MongoDB</div>
-    </td>
-    <td align="center">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="70" alt="React"/>
-      <div>React.js</div>
-    </td>
-    <td align="center">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" width="70" alt="Tailwind"/>
-      <div>Tailwind CSS</div>
-    </td>
-    <td align="center">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="70" alt="Git"/>
-      <div>Git</div>
-    </td>
-  </tr>
-  <tr>
-    <td align="center">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="70" alt="JavaScript"/>
-      <div>JavaScript</div>
-    </td>
-    <td align="center">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="70" alt="CSS3"/>
-      <div>CSS3</div>
-    </td>
-    <td align="center">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="70" alt="HTML5"/>
-      <div>HTML5</div>
-    </td>
-    <td align="center">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="70" alt="Python"/>
-      <div>Python</div>
-    </td>
-    <td align="center">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" width="70" alt="Postman"/>
-      <div>Postman</div>
-    </td>
-  </tr>
+<h2 align="center">Tech Stack & Developer Tools </h2>
+<div align="center">
+
+<table>
+<tr>
+<td align="center" width="120">
+<img src="https://techstack-generator.vercel.app/java-icon.svg" alt="Java" width="50" height="50" />
+<br><strong>Java</strong>
+</td>
+<td align="center" width="120">
+<img src="https://techstack-generator.vercel.app/python-icon.svg" alt="Python" width="50" height="50" />
+<br><strong>Python</strong>
+</td>
+<td align="center" width="120">
+<img src="https://techstack-generator.vercel.app/js-icon.svg" alt="JavaScript" width="50" height="50" />
+<br><strong>JavaScript</strong>
+</td>
+<td align="center" width="120">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" alt="MongoDB" width="50" height="50" />
+<br><strong>MongoDB</strong>
+</td>
+<td align="center" width="120">
+<img src="https://techstack-generator.vercel.app/react-icon.svg" alt="React" width="50" height="50" />
+<br><strong>React</strong>
+</td>
+</tr>
+<tr>
+<td align="center" width="120">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="50" height="50" />
+<br><strong>C</strong>
+</td>
+<td align="center" width="120">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML5" width="50" height="50" />
+<br><strong>HTML5</strong>
+</td>
+<td align="center" width="120">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS3" width="50" height="50" />
+<br><strong>CSS3</strong>
+</td>
+<td align="center" width="120">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/r/r-original.svg" alt="R" width="50" height="50" />
+<br><strong>R</strong>
+</td>
+<td align="center" width="120">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="Node.js" width="50" height="50" />
+<br><strong>Node.js</strong>
+</td>
+</td>
+</tr>
+<tr>
+<td align="center" width="120">
+<img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="Tailwind CSS" width="50" height="50" />
+<br><strong>Tailwind CSS</strong>
+</td>
+<td align="center" width="120">
+<img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="Postman" width="50" height="50" />
+<br><strong>Postman</strong>
+</td>
+<td align="center" width="120">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux" width="50" height="50" />
+<br><strong>Linux</strong>
+</td>
+<td align="center" width="120">
+<img src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-icon.svg" alt="VS Code" width="50" height="50" />
+<br><strong>VS Code</strong>
+</td>
+<td align="center" width="120">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="Git" width="50" height="50" />
+<br><strong>Git</strong>
+</td>
+</tr>
 </table>
