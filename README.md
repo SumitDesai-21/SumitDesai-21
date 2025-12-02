@@ -13,7 +13,7 @@
         My goal? Become a Software Engineer who takes raw ideas and builds elegant, scalable solutions that solve real problems. That’s the magic I’m chasing.
       </p>
       <p>
-        <span style="color:#0984e3;">&#8250;</span> <b>Degree:</b> Bachelor of Technology<br>
+        <span style="color:#0984e3;">&#8250;</span> <b>Degree:</b> Btech CSE<br>
         <span style="color:#0984e3;">&#8250;</span> <b>Email:</b> sumit.desai210@gmail.com<br>
         <span style="color:#0984e3;">&#8250;</span> <b>LinkedIn:</b> https://linkedin.com/in/sumit-v-d-3b6a9632a
       </p>
